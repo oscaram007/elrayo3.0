@@ -6,9 +6,9 @@
 
 ## 🕹️ What Is This Game?
 
-Think of the little dinosaur game that pops up when your internet goes out — except the dinosaur is a **Mexican wrestler in a flashy costume**, and instead of cacti, you're dodging **mummies, vampires, werewolves, wizards, and Frankenstein**... who are also wrestlers. 🧟‍♂️🧙‍♂️🐺
+Think of the little dinosaur game that pops up when your internet goes out. Now, instead of the little pixelated dinosaur... it's a **Mexican wrestler in a flashy costume**... And instead of cacti, you're dodging **mummies, vampires, werewolves, wizards, and Frankenstein**... who are also wrestlers. 🧟‍♂️🧙‍♂️🐺
 
-You tap **Space** (or tap the screen on mobile) to jump over enemies. The longer you survive, the faster everything moves. Collect power-ups, smash rivals, and chase a high score!
+You tap the **Space** bar to jump over enemies. The longer you survive, the faster everything moves. Collect power-ups, smash rivals, and chase a high score!
 
 ---
 
