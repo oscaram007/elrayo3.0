@@ -8,7 +8,7 @@
 
 Think of the little dinosaur game that pops up when your internet goes out. Now, instead of the little pixelated dinosaur... it's a **Mexican wrestler in a flashy costume**... And instead of cacti, you're dodging **mummies, vampires, werewolves, wizards, and Frankenstein**... who are also wrestlers. 🧟‍♂️🧙‍♂️🐺
 
-You tap the **SPACE** bar to jump over enemies. The longer you survive, the faster everything moves. Collect power-ups, smash rivals, and chase a high score!
+You press the **SPACE** bar to jump over enemies. The longer you survive, the faster everything moves. Collect power-ups, smash rivals, and chase a high score!
 
 ---
 
